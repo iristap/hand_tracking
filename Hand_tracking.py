@@ -104,3 +104,6 @@ with mp_hands.Hands(
           print(mode)
   capture.release()
   cv2.destroyAllWindows()
+
+
+  #eiei
